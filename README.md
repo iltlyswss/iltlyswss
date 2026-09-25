@@ -13,7 +13,8 @@
  
 ### Languages:
 
-![Static Badge](https://img.shields.io/badge/html5-e34f26?style=for-the-badge&logo=html5&logoColor=white) ![Static Badge](https://img.shields.io/badge/css-663399?style=for-the-badge&logo=css&logoColor=white) ![Static Badge](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript&logoColor=f7df1e)
+![Static Badge](https://img.shields.io/badge/html5-e34f26?style=for-the-badge&logo=html5&logoColor=white) ![Static Badge](https://img.shields.io/badge/css-663399?style=for-the-badge&logo=css&logoColor=white) ![Static Badge](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript&logoColor=f7df1e) ![Static Badge](https://img.shields.io/badge/c%2B%2B-00599c?style=for-the-badge&logo=cplusplus)
+
 
 
 
