@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=wave&height=300&color=0%3AFFC2D4%2C100%3AFF69B4&section=header&reversal=false&text=MEOW&textBg=false&fontSize=70&fontAlign=50&fontAlignY=50&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60)
+![header](https://capsule-render.vercel.app/api?type=wave&height=267&color=0%3AFFC2D4%2C100%3AFF69B4&section=header&reversal=false&text=MEOW&textBg=false&fontSize=70&fontAlign=50&fontAlignY=50&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60)
 
 </div>
 
@@ -39,6 +39,6 @@
 
 <div align="center">
 
-![footer](https://capsule-render.vercel.app/api?type=wave&height=300&color=0%3AFFC2D4%2C100%3AFF69B4&section=footer&reversal=false&textBg=false&fontSize=70&fontAlign=50&fontAlignY=50&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60)
+![footer](https://capsule-render.vercel.app/api?type=wave&height=267&color=0%3AFFC2D4%2C100%3AFF69B4&section=footer&reversal=false&textBg=false&fontSize=70&fontAlign=50&fontAlignY=50&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60)
 
 </div>
